@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Himanshi<br><br> Web Developer  <br> B.Tech CSE (Data Science) Student  <br> Passionate about building modern websites  <br><br>Skills<br>HTML | CSS | JavaScript | Java | DSA<br> Currently Learning<br>Web Development and Data Structures<br><br>
+# 💫 About Me:<h2>Hi 👋, I'm Himanshi</h2><br>
+<br> Web Developer  <br> B.Tech CSE (Data Science) Student  <br> Passionate about building modern websites  <br><br>Skills<br>HTML | CSS | JavaScript | Java | DSA<br> Currently Learning<br>Web Development and Data Structures<br><br>
 
 
 ## 🌐 Socials:
